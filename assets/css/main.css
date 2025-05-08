@@ -2459,6 +2459,16 @@ input[type="radio"] + label:before {
   width: 100%;
 }
 
+.image.cv {
+  display: block;
+  margin: 0 0 2em 0;
+  width: 100%;
+}
+
+.image.cv img {
+  width: 100%;
+}
+
 @media screen and (max-width: 736px) {
   .image.main {
     margin: 0 0 2em 0;
